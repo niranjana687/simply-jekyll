@@ -1,0 +1,51 @@
+I".<style>
+.date-content a {
+    text-decoration: none;
+    color: #4183c4;
+}
+
+.date-content a:hover {
+    text-decoration: underline;
+    color: #4183c4;
+}
+</style>
+
+<main>
+    
+    
+    
+      <h3 id="01-June-2020">01-June-2020</h3>
+          
+            <li id="date-content" style="padding-bottom: 0.6em; list-style: none;"><a href="/posts/informational-hazard-thinking-before-consuming">(Sample Essay) Informational Hazard - Thinking Before Consuming</a></li>
+          
+    
+      <h3 id="01-May-2020">01-May-2020</h3>
+          
+            <li id="date-content" style="padding-bottom: 0.6em; list-style: none;"><a href="/posts/Introduction-to-simply-jekyll">Introduction to Simply Jekyll</a></li>
+          
+    
+      <h3 id="01-April-2020">01-April-2020</h3>
+          
+            <li id="date-content" style="padding-bottom: 0.6em; list-style: none;"><a href="/posts/Exploring-the-features-of-simply-jekyll">Exploring the features of Simply Jekyll</a></li>
+          
+    
+      <h3 id="01-March-2020">01-March-2020</h3>
+          
+            <li id="date-content" style="padding-bottom: 0.6em; list-style: none;"><a href="/posts/How-to-setup-simply-jekyll">How to setup Simply Jekyll</a></li>
+          
+    
+      <h3 id="01-February-2020">01-February-2020</h3>
+          
+            <li id="date-content" style="padding-bottom: 0.6em; list-style: none;"><a href="/posts/How-to-use-simply-jekyll-features-on-your-website">How to use Simply Jekyll features on your website</a></li>
+          
+    
+      <h3 id="01-January-2020">01-January-2020</h3>
+          
+            <li id="date-content" style="padding-bottom: 0.6em; list-style: none;"><a href="/posts/Test-page-to-see-how-the-markdown-is-rendered">Test page to see how the raw markdown is rendered</a></li>
+          
+    
+    
+        <br />
+        <br />
+</main>
+:ET
